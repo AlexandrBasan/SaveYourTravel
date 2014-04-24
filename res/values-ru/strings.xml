@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Save your Travel</string>
+<string name="name">Имя:</string>
+<string name="description">Описание:</string>
+<string name="location">Статус месности:</string>
+<string name="location_store">Перезаписать местоположение</string>
+<string name="save">Сохранить</string>
+<string name="cancel">Отмена</string>
+<string name="date_store">Перезаписать временной штамп</string>
+<string name="location_again">Повторный поиск местоположения</string>
+<string name="new_post">Новая запись</string>
+<string name="default_trip">MyTrip.kml</string>
+<string name="menu_open">Открыть путешествие</string>
+<string name="menu_new">Новое путешествие</string>
+<string name="menu_info">Информация о путешествии</string>
+<string name="menu_help">Помощь</string>
+<string name="new_trip_dialog_text">Пожалуйста введите имя вашего нового путешествия:</string>
+<string name="OK">OK</string>
+<string name="Yes">Да</string>
+<string name="HelpMsg"> Данное приложение позволяет вам делать небольшие заметки по маршруту вашего путешествия. Удобно для организации мелких заметок при ведении блога либо для сохранения маршрута вашего путешествия. Если вы не хотите ничего пропустить или боитесь забыть то где вы были либо что видели это приложение именно для вас. \n
+Это очень простое и маленькое приложение. Наличие доступа в интеренет не обязательно. Есть поиск местоположения по координатам сотовой сети или GPS. Сохраняет данные в файл.  KML (located in /SaveMyTravel/ on your SD card). После поиска местоположения по GPS (или координатам сети) GPS автоматически отключаеться для экономии батареи вашего устройства. Маршрут вашего путешествия вы можете сохранить в отдельный файл либо отправить электронной почтой (facebook, skype, SMS или передать в любую программу которая поддерживает импорт файлов KML). Вы в любой момент можете посмотреть маршрут вашего путешествия используя Google Maps на вашем устройстве Android либо PC. \n
+\n Удачного путешествия!\n
+\nCBSB development</string>
+<string name="menu_send">Отправить путешествие</string>
+<string name="menu_map">Показать путешествие на карте</string>
+<string name="are_you_sure">Вы уверены?</string>
+<string name="are_you_sure_msg">Вы уверены что хотите удалить эту точку?</string>
+<string name="menu_about">О нас</string>
+<color name="Black">#000000</color>
+<color name="Green">#82c300</color>
+
+<string name="admob_publisher_id">a1519defe2c1e63</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.cbsb.travelblog"
+      android:versionCode="2"
+      android:versionName="1.2">
+    <application android:icon="@drawable/travel_icon" 
+    	android:label="@string/app_name" 
+    	android:debuggable="false" android:theme="@android:style/Theme.Light">
+        <uses-library android:name="com.google.android.maps" />
+        <activity android:name="com.cbsb.travelblog.TravelLocBlogMain"
+                  android:label="@string/app_name"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.cbsb.travelblog.EditBlogElement"
+        	android:configChanges="orientation"/>    
+        <activity android:name="com.cbsb.travelblog.TripMapView"
+        	android:configChanges="orientation"/>  
+        	  <activity            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout"
+            android:name="com.google.ads.AdActivity" />  	
+    </application>
+    <uses-sdk android:minSdkVersion="4" android:targetSdkVersion="13"/>
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	 <uses-permission android:name="android.permission.INTERNET" />
+	 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+</manifest> 

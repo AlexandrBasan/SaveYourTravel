@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Save your Travel</string>
+<string name="name">Name:</string>
+<string name="description">Description:</string>
+<string name="location">Location Status:</string>
+<string name="location_store">Update the location</string>
+<string name="save">Save</string>
+<string name="cancel">Cancel</string>
+<string name="date_store">Update time</string>
+<string name="location_again">Retry location search</string>
+<string name="new_post">New Post</string>
+<string name="default_trip">MyTrip.kml</string>
+<string name="menu_open">Open Trip</string>
+<string name="menu_new">New Trip</string>
+<string name="menu_info">Trip Info</string>
+<string name="menu_help">Help</string>
+<string name="new_trip_dialog_text">Please enter filename for your new trip:</string>
+<string name="OK">OK</string>
+<string name="Yes">Yes</string>
+<string name="HelpMsg"> This application allows you to make a small note on the route of your journey. It is convenient for the organization of small notes in the conduct of the blog or to save the route of your journey. If you do not want to miss anything, or you have trouble remembering where you were, or had seen this application is for you. \n
+This is a very simple and small app. Availability of Internet Access is not required. There is a search for the location coordinates of the network or the GPS. Saves data to a file. KML (located in / SaveMyTravel / on your SD card). After you find the location by GPS (or the coordinates of the network) GPS otklyuchaetsya automatically to save battery on your device. The route of your journey, you can save to a file or send e-mail (facebook, skype, SMS or transferred to any program that supports file import KML). You can always see the route your trip using Google Maps on your Android device or PC. \n
+\nHappy travelling!\n
+\nCBSB development</string>
+<string name="menu_send">Send Trip</string>
+<string name="menu_map">Trip on Map</string>
+<string name="are_you_sure">Are you sure?</string>
+<string name="are_you_sure_msg">Are you sure you want to delete this post?</string>
+<string name="menu_about">About</string>
+<color name="Black">#000000</color>
+<color name="Green">#82c300</color>
+
+<string name="admob_publisher_id">a1519defe2c1e63</string>
+</resources>
